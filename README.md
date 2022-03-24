@@ -1,5 +1,5 @@
 # 1. 文件列表
-IsenseChart.kt 自定义view类，没有设置外部参数
+IsenseChart.kt 自定义view类，没有设置外部参数  
 HeartRateChartEntry.kt 数据类，是每一个数据条的数据来源。
 
 # 2. 页面实现
